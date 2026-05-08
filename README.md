@@ -20,8 +20,9 @@ Test cases are based on the business rules from the following decision table:
 
 Original source: FlexRule, ["Preparing a decision table"](https://resource.flexrule.com/knowledge-base/preparing-a-decision-table/)
 
-## Installation
-Run the tests with `npm run test`.
+## Usage
+1. Install dependencies: `npm i`
+2. Run the tests: `npm run test`
 
 ## Tools
 Jest / JavaScript
